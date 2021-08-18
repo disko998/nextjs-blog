@@ -1,0 +1,18 @@
+.success {
+    background: green;
+}
+.error {
+    background: red;
+}
+
+.alert {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
